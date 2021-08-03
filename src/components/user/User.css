@@ -1,0 +1,6 @@
+@media (max-width: 425px) {
+    .media {
+      display: block;
+      grid-template-columns: repeat(2,1fr);
+    }
+  }
